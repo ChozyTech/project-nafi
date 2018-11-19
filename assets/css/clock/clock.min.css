@@ -1,0 +1,29 @@
+	.hide{
+      		display: none;
+      	}
+      
+       
+#timediv {
+    background: #fff;
+    text-align: center;
+    width: 148px;
+    color: #000;
+    border: 1px #ccc groove;
+    position: relative;
+    top: -60px;
+    right: -208px;
+}
+      	.body_time{
+      		background: #17c8e8;
+      		padding: 100px;
+      		width: 58px;
+   			border-radius: 50%;
+        	margin: 15% auto;
+
+      	}
+        .anim{
+        	background-image: url('../../img/animation/rocket.gif');
+        	background-repeat:no-repeat;
+        	height: 397px;
+        	width: 409px;
+        }
